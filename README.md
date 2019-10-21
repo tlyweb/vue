@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # travel
 
 ## Project setup
@@ -32,3 +33,7 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue
+123
+>>>>>>> e8f732508ff9ebf525ccdbfa327808770d598fbe
